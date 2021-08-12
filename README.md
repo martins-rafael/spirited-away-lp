@@ -16,7 +16,8 @@
 Desafio 05 da comunidade Codelândia, by [Iuri Silva](https://github.com/iuricode).
 O desafio consiste em construir uma landing page de acordo com o layout disponibilizado.
 
-Você pode entrar na Codelândia (Discord) clicando [aqui](https://discord.com/invite/QevDJqCzaY)
+Você pode entrar na Codelândia (Discord) clicando [aqui](https://discord.com/invite/QevDJqCzaY).
+
 Veja o layout no Figma clicando [aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=5854%3A2)
 
 <p align="center">
