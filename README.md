@@ -11,8 +11,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/martins-rafael/spirited-away-lp?color=1a4855&style=flat-square">
 </p>
 
-<br>
-
 ## Sobre
 
 Desafio 05 da comunidade Codelândia, by [Iuri Silva](https://github.com/iuricode).
@@ -24,8 +22,6 @@ Veja o layout no Figma clicando [aqui](https://www.figma.com/file/Yb9IBH56g7T1hd
 <p align="center">
   <img src=".github/screenshot.png" alt="Screenshot" >
 </p>
-
-<br>
 
 ## Licença
 <img alt="License" src="https://img.shields.io/badge/license-MIT-1a4855?style=flat-square">
