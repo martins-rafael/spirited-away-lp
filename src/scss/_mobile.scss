@@ -1,0 +1,46 @@
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 60%;
+  }
+
+  .header {
+    &__logo {
+      width: 10rem;
+    }
+
+    &__social a + a {
+      margin-left: 2rem;
+    }
+
+    &__social a img {
+      width: 2rem;
+    }
+  }
+
+  .hero {
+    grid-template-areas:
+      "first"
+      "second";
+
+    &__description {
+      grid-area: second;
+
+      h1 {
+        font-size: 4.8rem;
+      }
+    }
+
+    &__footer {
+      flex-direction: column;
+
+      a {
+        margin: 0 0 1.6rem;
+        width: 100%;
+      }
+    }
+
+    &__illustration {
+      grid-area: first;
+    }
+  }
+}

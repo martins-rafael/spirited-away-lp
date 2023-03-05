@@ -1,0 +1,22 @@
+.header {
+  margin: 2.4rem auto 7.5rem;
+  padding: 0 2.5rem;
+  max-width: 109.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  animation: appear 2s;
+  --position: 0, -20px;
+
+  &__logo {
+    width: 18rem;
+  }
+
+  &__social a + a {
+    margin-left: 3rem;
+  }
+
+  &__social a img {
+    width: 2.4rem;
+  }
+}
